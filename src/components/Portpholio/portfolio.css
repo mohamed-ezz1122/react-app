@@ -1,0 +1,10 @@
+.imag-laer 
+{
+    background-color: #1abc9c;
+    opacity: 0;
+    cursor: pointer;
+}
+.imge-inner:hover .imag-laer
+{
+    opacity: .8;
+}

@@ -1,0 +1,28 @@
+.home
+{
+    background-color: #1abc9c;
+}
+.star-ico
+{
+    position: relative;
+}
+.star-ico::after
+{
+    content:"" ;
+    width:100px;
+    height: 5px;
+    background-color: #eee;
+    position: absolute;
+    right: 30px;
+    bottom: 50%;
+}
+.star-ico::before
+{
+    content:"" ;
+    width:100px;
+    height: 5px;
+    background-color: #eee;
+    position: absolute;
+    left:30px;
+    bottom: 50%;
+}
