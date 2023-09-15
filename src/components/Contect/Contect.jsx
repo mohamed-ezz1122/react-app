@@ -34,7 +34,7 @@ export default function Contect() {
 </div>
 
 </div>
-<button className='btn btn-info text-white'>Send Masseg</button>
+<button className='btn btn-green text-white'>Send Masseg</button>
 </div>
   
   </div>
