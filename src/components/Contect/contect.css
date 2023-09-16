@@ -61,7 +61,10 @@
 {
     color: aqua;
 }
-.btn-green
+button.btn-green:hover{
+    background-color: #1abc9c;
+}
+button.btn-green
 {
     background-color: #1abc9c;
 }

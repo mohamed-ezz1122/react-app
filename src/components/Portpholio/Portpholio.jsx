@@ -46,7 +46,7 @@ export default function Portpholio() {
 <div className="content-head position-relative text-center fw-bold">
 <h2 className='h1 '>PORTFOLIO COMPONENT</h2>
 <div className="starContect-ico position-relative mx-auto">
-<i class="fa-solid fa-star my-3 "></i>
+<i className="fa-solid fa-star my-3 "></i>
 </div>
 </div>
 <div className="portfol_gallary my-5">
@@ -56,7 +56,7 @@ export default function Portpholio() {
       <img src={imgPrtfOne} className='w-100 rounded' alt="" />
       <div className="imag-laer rounded w-100 top-0 bottom-0 position-absolute d-flex justify-content-center align-items-center"onClick={(e)=>
       {getSurc(e)}}>
-      <i class="fa-solid fa-plus text-white fa-10x" ></i>
+      <i className="fa-solid fa-plus text-white fa-10x" ></i>
       </div>
     </div>
   </div>
@@ -65,7 +65,7 @@ export default function Portpholio() {
       <img src={imgPrtfTwo} className='w-100 rounded' alt="" />
       <div className="imag-laer rounded w-100 top-0 bottom-0 position-absolute d-flex justify-content-center align-items-center"onClick={(e)=>
       {getSurc(e)}}>
-      <i class="fa-solid fa-plus text-white fa-10x " ></i>
+      <i className="fa-solid fa-plus text-white fa-10x " ></i>
       </div>
     </div>
   </div>
@@ -74,7 +74,7 @@ export default function Portpholio() {
       <img src={imgPrtfThree} className='w-100 rounded' alt="" />
       <div className="imag-laer rounded w-100 top-0 bottom-0 position-absolute d-flex justify-content-center align-items-center"  onClick={(e)=>
       {getSurc(e)}}>
-      <i class="fa-solid fa-plus text-white fa-10x" ></i>
+      <i className="fa-solid fa-plus text-white fa-10x" ></i>
       </div>
     </div>
   </div>
@@ -83,7 +83,7 @@ export default function Portpholio() {
       <img src={imgPrtfOne} className='w-100 rounded' alt="" />
       <div className="imag-laer rounded w-100 top-0 bottom-0 position-absolute d-flex justify-content-center align-items-center"onClick={(e)=>
       {getSurc(e)}} >
-      <i class="fa-solid fa-plus text-white fa-10x"></i>
+      <i className="fa-solid fa-plus text-white fa-10x"></i>
       </div>
     </div>
   </div>
@@ -92,7 +92,7 @@ export default function Portpholio() {
       <img src={imgPrtfTwo} className='w-100 rounded' alt="" />
       <div className="imag-laer rounded  w-100 top-0 bottom-0 position-absolute d-flex justify-content-center align-items-center" onClick={(e)=>
       {getSurc(e)}}>
-      <i class="fa-solid fa-plus text-white fa-10x" ></i>
+      <i className="fa-solid fa-plus text-white fa-10x" ></i>
       </div>
     </div>
   </div>
